@@ -1,6 +1,5 @@
 //
 //  ZJImageMagnification.m
-//  中教在线
 //
 //  Created by degulade on 2017/4/21.
 //  Copyright © 2017年 degulade. All rights reserved.
